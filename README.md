@@ -22,7 +22,7 @@ This repository contains a series of incremental practices programming collabora
 
 * Demo video:
 
-[![Domino](https://img.youtube.com/vi/tqip0n6m8/0.jpg)](https://www.youtube.com/watch?v=tqip0n6m8)
+[![Pickandplace](https://img.youtube.com/vi/m_tqip0n6m8/0.jpg)](https://www.youtube.com/watch?v=m_tqip0n6m8)
 
 
 ## Domino EffectDescription: 
@@ -37,7 +37,7 @@ This repository contains a series of incremental practices programming collabora
 * Technical Approach: Focuses on the execution and collaborative programming of the CR3 robot. The CR3 is programmed with calculated execution delays (Sleep) to safely share the workspace and interact with objects.
 * Demo video: 
 
-[![Domino](https://img.youtube.com/vi/d8XVjxTslWU/0.jpg)](https://www.youtube.com/watch?v=d8XVjxTslWU)
+[![Hanoi](https://img.youtube.com/vi/d8XVjxTslWU/0.jpg)](https://www.youtube.com/watch?v=d8XVjxTslWU)
 
 
 ## Vertical StackingDescription: 
@@ -45,7 +45,7 @@ This repository contains a series of incremental practices programming collabora
 * Technical Approach: Utilizes precise Z-axis coordinate adjustments, configuring the routines to dynamically update the height for stacking pieces measuring exactly 70mm.
 * Demo video:
 
-[![Domino](https://img.youtube.com/vi/A1EoAWeKOpQ/0.jpg)](https://www.youtube.com/watch?v=A1EoAWeKOpQ)
+[![Stack](https://img.youtube.com/vi/A1EoAWeKOpQ/0.jpg)](https://www.youtube.com/watch?v=A1EoAWeKOpQ)
 
 ## TCP Socket Remote ControlDescription: 
 * Implementation of a Lua-based TCP server on the cobot and a Python client to remotely trigger custom routines (e.g., WAVE, CAPY, PICK).
