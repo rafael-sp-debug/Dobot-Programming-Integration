@@ -18,10 +18,10 @@ This repository contains a series of incremental practices programming collabora
 ---
 
 ## Domino EffectDescription: 
-
 * Precision programming in Lua to strategically place blocks in a calculated sequence to create a domino effect.
 * Technical Approach: Relies on exact Cartesian coordinates and joint angles to ensure high-precision placement of each piece.
-* Demo video: 
+* Demo video:
+[![Domino](https://img.youtube.com/vi/Cv9QZ-EMLlA/0.jpg)](https://www.youtube.com/watch?v=Cv9QZ-EMLlA)
 
 ## Towers of HanoiDescription: 
 * Algorithmic cobot manipulation to solve the Towers of Hanoi puzzle.  
@@ -38,10 +38,6 @@ This repository contains a series of incremental practices programming collabora
 * Technical Approach: Features a non-blocking TCP server in Lua that interprets string buffers into exact commands (such as HOME, ABRIR, DEMO). This server is paired with a Python command-line interface running externally with a 30-second timeout configuration.
 
 * Demo video: https://www.canva.com/design/DAHI6L2jT-4/e1tTzp-EFi3vPf6vC2Fi9g/watch  
-
-[Screencast from 07-09-2026 09:01:31 PM.webm](https://github.com/user-attachments/assets/3f5b2517-7135-4658-b058-881408ee27bb)
-
-[Screencast from 07-09-2026 08:55:19 PM.webm](https://github.com/user-attachments/assets/613941e4-7b1b-441a-a4eb-8de4599239de)
 
 ---
 
